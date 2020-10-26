@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96a5fdbe-ea22-4f86-bd57-48b68ec5ea4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jCIwSZfl0KLwUtmfP7m9FJXRxb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="CTIS417-Project1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96a5fdbe-ea22-4f86-bd57-48b68ec5ea4d" name="Default Changelist" comment="" />
+      <created>1603301884388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603301884388</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1603729032251">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="626" y="-834" key="#com.intellij.ide.util.MemberChooser/-120.-1057.1920.1057/0.23.1680.958@-120.-1057.1920.1057" timestamp="1603376365981" />
+    <state x="653" y="225" key="#com.intellij.ide.util.MemberChooser/-120.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603356915729" />
+    <state x="626" y="-852" key="#com.intellij.ide.util.MemberChooser/-120.-1080.1920.1080/0.0.1680.1050@-120.-1080.1920.1080" timestamp="1603381337427" />
+    <state x="653" y="225" key="#com.intellij.ide.util.MemberChooser/-123.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603729032251" />
+    <state x="487" y="23" width="706" height="958" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603358152762">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="487" y="23" width="706" height="958" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-120.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603358152762" />
+    <state x="578" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603356201396">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="578" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-120.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603356201396" />
+    <state width="1638" height="183" key="GridCell.Tab.0.bottom" timestamp="1603747685648">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/-120.-1057.1920.1057/0.23.1680.958@-120.-1057.1920.1057" timestamp="1603385644669" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/-120.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603357485618" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/-120.-1080.1920.1080/0.0.1680.1050@-120.-1080.1920.1080" timestamp="1603381544386" />
+    <state width="1638" height="183" key="GridCell.Tab.0.bottom/-123.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603747685648" />
+    <state width="1638" height="183" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1603721366025" />
+    <state width="1638" height="183" key="GridCell.Tab.0.center" timestamp="1603747685648">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.center/-120.-1057.1920.1057/0.23.1680.958@-120.-1057.1920.1057" timestamp="1603385644669" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/-120.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603357485617" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/-120.-1080.1920.1080/0.0.1680.1050@-120.-1080.1920.1080" timestamp="1603381544385" />
+    <state width="1638" height="183" key="GridCell.Tab.0.center/-123.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603747685648" />
+    <state width="1638" height="183" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1603721366024" />
+    <state width="1638" height="183" key="GridCell.Tab.0.left" timestamp="1603747685647">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.left/-120.-1057.1920.1057/0.23.1680.958@-120.-1057.1920.1057" timestamp="1603385644668" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/-120.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603357485616" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/-120.-1080.1920.1080/0.0.1680.1050@-120.-1080.1920.1080" timestamp="1603381544384" />
+    <state width="1638" height="183" key="GridCell.Tab.0.left/-123.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603747685647" />
+    <state width="1638" height="183" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1603721366024" />
+    <state width="1638" height="183" key="GridCell.Tab.0.right" timestamp="1603747685648">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.0.right/-120.-1057.1920.1057/0.23.1680.958@-120.-1057.1920.1057" timestamp="1603385644669" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/-120.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603357485617" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/-120.-1080.1920.1080/0.0.1680.1050@-120.-1080.1920.1080" timestamp="1603381544386" />
+    <state width="1638" height="183" key="GridCell.Tab.0.right/-123.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603747685648" />
+    <state width="1638" height="183" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1603721366024" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1603385644670">
+      <screen x="-120" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/-120.-1057.1920.1057/0.23.1680.958@-120.-1057.1920.1057" timestamp="1603385644670" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/-120.-1080.1920.1080/0.0.1680.1050@-120.-1080.1920.1080" timestamp="1603381544391" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1603385644670">
+      <screen x="-120" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/-120.-1057.1920.1057/0.23.1680.958@-120.-1057.1920.1057" timestamp="1603385644670" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center/-120.-1080.1920.1080/0.0.1680.1050@-120.-1080.1920.1080" timestamp="1603381544388" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1603385644669">
+      <screen x="-120" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/-120.-1057.1920.1057/0.23.1680.958@-120.-1057.1920.1057" timestamp="1603385644669" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left/-120.-1080.1920.1080/0.0.1680.1050@-120.-1080.1920.1080" timestamp="1603381544387" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1603385644670">
+      <screen x="-120" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/-120.-1057.1920.1057/0.23.1680.958@-120.-1057.1920.1057" timestamp="1603385644670" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/-120.-1080.1920.1080/0.0.1680.1050@-120.-1080.1920.1080" timestamp="1603381544390" />
+    <state x="517" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1603747847789">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="517" y="334" key="com.intellij.ide.util.TipDialog/-123.-1057.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1603747847789" />
+    <state x="517" y="334" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1603711842808" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/isiksinan/ctis417/ShoppingCart/Product.java</url>
+          <line>11</line>
+          <properties class="com.company.Product" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
